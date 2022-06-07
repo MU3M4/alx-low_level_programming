@@ -1,8 +1,7 @@
-#include |<main.h>
-
+#include "main.h"
 int main(void)
 {
-	putchar('_');
+	putchar(_);
 	putchar('p');
 	putchar('u');
 	putchar('t');
